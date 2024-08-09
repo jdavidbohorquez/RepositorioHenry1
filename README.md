@@ -1,2 +1,4 @@
-# RepositorioHenry1
-este es es un repositorio de modulo2 parte 1 de henry
+jonathan david bm 
+
+
+este es la primeraq prueba del primer ejercicio 
